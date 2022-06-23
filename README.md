@@ -27,3 +27,14 @@ the complete algoriths does NOT scale to too many participant (it works for 20 p
 ## coding idea
 i want all data to be in one place (file)
 so everybody can download that file and use it without having to setup a server, play around with cors headers and other black magic.
+
+
+## ideas 
+if you have some spare time and want to help: the following ideas could give you an idea to start for super simple an pretty daunting ones
+
+- set values for "left" and "right" in the interface
+- allow resizing of the boxes (to allow for 'names' instead of numbers)
+- interface overhaul
+- a server component (I might adapt another project to this) to allow ppl to use their phones as a diplay for their own number - websockets anyone?
+- add the possibility to add custom attributes and preferences (e.g. attribute 'smoking' - and prerefence 'I don't want to dance with as smoking person' - or gender and gender preference)
+
