@@ -24,3 +24,6 @@ there are a couple of things I have not properly tested, like ... using names fo
 ## known limitations
 the complete algoriths does NOT scale to too many participant (it works for 20 ppl, but starts calculating longer and longer if the number of participants is increased)
 
+## coding idea
+i want all data to be in one place (file)
+so everybody can download that file and use it without having to setup a server, play around with cors headers and other black magic.
